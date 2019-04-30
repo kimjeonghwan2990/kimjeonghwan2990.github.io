@@ -1,0 +1,51 @@
+html {
+    background: url(./img/chusang2.jpg);
+    background-repeat:no-repeat;
+    background-size: 100%;
+}
+
+.title {
+    text-align: center;
+    margin-top: 300px;
+    margin-bottom: 50px;
+    font-size: 100px;
+    text-shadow:0px 0px 1rem #2524FF;
+    color: whitesmoke;
+    font-family: 'Poppins', sans-serif;
+    background-color:black;
+    margin-left: 270px;
+    margin-right: 270px;
+    border-radius: 10px / 10px;
+}
+
+.title:hover{
+    color : black;
+    background: url(./img/chusang1.jpg);
+    background-color : white;
+    transition : 0.3s;
+    text-shadow:0px 0px 0rem ;
+}
+
+.artist {
+    text-align: center;
+}
+
+.dh, .ky, .tm {
+    margin-right: 20px;
+    margin-left: 20px;
+    border-radius: 5px / 5px;
+    background-color: black;
+    color: white;
+    font-family: 'Poppins', sans-serif;
+    width: 200px;
+    height: 50px;
+    font-size: 15px;
+}
+
+.dh:hover, .ky:hover, .tm:hover {
+    color : black;
+    background:url(./img/chusang1.jpg);
+    background-repeat:no-repeat;
+    background-size: 100%;
+    transition : 0.5s;
+}

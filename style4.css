@@ -1,0 +1,163 @@
+html {
+    background: url();
+    background-repeat:no-repeat;
+    background-size: 100%;
+}
+
+.out {
+    background: url(./img/김정환-찰나\(刹那\)의\ 순간.jpg); 
+    background-repeat:repeat;
+    background-size: 100%;
+}
+
+.container {
+    background-color: white;
+}
+
+.nav {
+    margin-top: 50px;
+}
+
+hr {
+    color: black;
+}
+
+.all {
+    text-align: center;
+}
+
+
+.td1 {
+    padding: 20px 20px 20px 20px;
+    background-color: white;
+    color: white;
+}
+
+.td1:hover {
+    color : black;
+    background: url(./img/김정환\,\ 김정환.jpg);
+    background-repeat:repeat;
+    background-size: 10%;
+    background-color : white;
+    transition : 40s;
+    text-shadow:0px 0px 0rem ;
+}
+
+.td22 {
+    padding: 10px 10px 10px 10px;
+    font-family: 'Noto Sans KR', sans-serif;
+    font-size: 20px;
+    background-color: #F3F3F3;
+}
+
+.td2 {
+    padding: 10px 10px 10px 10px;
+    font-family: 'Noto Sans KR', sans-serif;
+    font-size: 20px;
+}
+
+.td3 {
+    text-align: center;
+    background-color: #F3F3F3;
+}
+
+.td4 {
+    text-align: center;
+}
+
+.lb {
+    font-size: 50px;
+    color:black;
+    font-family: 'Do Hyeon', sans-serif;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.dh {
+    margin-top: 100px;
+    margin-left: 1100px;
+    border-radius: 5px / 5px;
+    background-color: black;
+    color: white;
+    font-family: 'Poppins', sans-serif;
+    font-size: 15px;
+}
+
+.lb2 {
+    font-size: 50px;
+    color:black;
+    font-family: 'Do Hyeon', sans-serif;
+    margin-top: 100px;
+    margin-bottom: 50px;
+}
+
+.td5 {
+    padding: 20px 20px 20px 20px;
+    background-color: white;
+    color: white;
+}
+
+.td5:hover {
+    color : black;
+    background: url(./img/what\ is\ your\ real\ emotion\,\ 김정환.jpg);
+    background-color : white;
+    background-repeat:repeat;
+    background-size: 10%;
+    transition : 40s;
+    text-shadow:0px 0px 0rem ;
+}
+
+.td6 {
+    padding: 10px 10px 10px 10px;
+    font-family: 'Noto Sans KR', sans-serif;
+    font-size: 35px;
+    background-color: #F3F3F3;
+}
+
+.ta1 {
+    margin-top: 200px;
+}
+
+.td7, .td8, .td9 {
+    padding: 20px 20px 20px 20px;
+    background-color: white;
+    color: white;
+}
+
+.td7:hover {
+    color : black;
+    background: url(./img/김정환-찰나\(刹那\)의\ 순간.jpg);
+    background-color : white;
+    background-repeat:repeat;
+    background-size: 10%;
+    transition : 40s;
+    text-shadow:0px 0px 0rem ;
+}
+
+.td8:hover {
+    color : black;
+    background: url(./img/솟대\,\ 김정환\(1\).jpg);
+    background-color : white;
+    background-repeat:repeat;
+    background-size: 10%;
+    transition : 40s;
+    text-shadow:0px 0px 0rem ;
+}
+
+.td9:hover {
+    color : black;
+    background: url(./img/종이달\,\ 김정환.jpg);
+    background-color : white;
+    background-repeat:repeat;
+    background-size: 10%;
+    transition : 40s;
+    text-shadow:0px 0px 0rem ;
+}
+
+.lb3 {
+    font-size: 50px;
+    color:black;
+    font-family: 'Do Hyeon', sans-serif;
+    margin-top: 100px;
+    margin-bottom: 50px;
+}
